@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc5f3e629a6245d7ab038189658fe9b, type: 3}
+  m_Name: 1, 9, 11
+  m_EditorClassIdentifier: 
+  resultName: "\u0428\u0435\u043F\u0447\u0443\u0449\u0438\u0439 \u0441\u043B\u0438\u0437\u0435\u043D\u044C"
+  bookPageSprite: {fileID: 21300000, guid: 544d927560c0048829334793967da7d0, type: 3}
+  bookPageScale: 1.22
+  bookPageOffset: {x: -16, y: -18}
+  ingredients:
+  - {fileID: 11400000, guid: bda37cf0c77d94595bebc79d256daeb7, type: 2}
+  - {fileID: 11400000, guid: f6d07b42f6bcd4bdf8fe065f993e84f8, type: 2}
+  - {fileID: 11400000, guid: d5b8a1f79f614b929c14851ccf5c7a11, type: 2}
