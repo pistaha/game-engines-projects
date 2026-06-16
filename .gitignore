@@ -1,0 +1,53 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# Crash/debug output
+mono_crash*.json
+*_BurstDebugInformation_DoNotShip/
+
+# Builds and archives
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.zip
+*.cpgz
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.vs/
+.idea/
+.utmp/
+
+# Local secrets
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pem
